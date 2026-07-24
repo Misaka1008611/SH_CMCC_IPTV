@@ -1,6 +1,76 @@
 #EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视",CCTV-16UHD
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视HD",CCTV-1HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视HD",CCTV-2HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视HD",CCTV-3HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视HD",CCTV-4HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视HD",CCTV-5HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视HD",CCTV-6HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视HD",CCTV-7HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视HD",CCTV-8HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视HD",CCTV-9HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视HD",CCTV-10HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视HD",CCTV-11HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视HD",CCTV-12HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视HD",CCTV-13HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视HD",CCTV-14HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视HD",CCTV-15HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视HD",CCTV-16UHD
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视HD",CCTV-16HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球HD" tvg-logo="https://logo.catvod.com/央视台球HD.png" group-title="央视HD",央视台球HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001600/index.m3u8
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品HD" tvg-logo="https://logo.catvod.com/央视文化精品HD.png" group-title="央视HD",央视文化精品HD
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001670/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV-1
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001001/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV-1
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001520/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV-2
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001012/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV-3
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001054/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV-4
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001011/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV-5
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001055/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV-6
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001056/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV-7
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV-8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001057/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV-9
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001242/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV-10
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001009/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV-11
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001059/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV-12
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001060/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV-13
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001061/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV-14
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001062/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV-15
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001063/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV-17
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001243/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://logo.catvod.com/CCTV4K.png" group-title="央视",CCTV-4K
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8
 #EXTINF:-1 tvg-id="多彩文体" tvg-name="多彩文体4K" tvg-logo="https://logo.catvod.com/多彩文体4K.png" group-title="4K超高清",多彩文体4K
@@ -53,36 +123,6 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物HD" tvg-logo="https://logo.catvod.com/央广购物HD.png" group-title="付费",央广购物HD
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV-2HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV-3HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV-4HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV-5HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV-6HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV-7HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV-8HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV-9HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV-10HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV-11HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV-12HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV-13HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV-14HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV-15HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://logo.catvod.com/CCTV16.png" group-title="央视",CCTV-16HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001248/index.m3u8
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经HD" tvg-logo="https://logo.catvod.com/东方财经HD.png" group-title="其他",东方财经HD
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下HD" tvg-logo="https://logo.catvod.com/财富天下HD.png" group-title="付费",财富天下HD
@@ -185,8 +225,6 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001580/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001581/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球HD" tvg-logo="https://logo.catvod.com/风云足球HD.png" group-title="付费",风云足球HD
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001590/index.m3u8
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球HD" tvg-logo="https://logo.catvod.com/央视台球HD.png" group-title="央视",央视台球HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001600/index.m3u8
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技HD" tvg-logo="https://logo.catvod.com/兵器科技HD.png" group-title="付费",兵器科技HD
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001610/index.m3u8
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理HD" tvg-logo="https://logo.catvod.com/世界地理HD.png" group-title="付费",世界地理HD
@@ -203,12 +241,8 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001650/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001621/index.m3u8
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐HD" tvg-logo="https://logo.catvod.com/风云音乐HD.png" group-title="付费",风云音乐HD
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001660/index.m3u8
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品HD" tvg-logo="https://logo.catvod.com/央视文化精品HD.png" group-title="央视",央视文化精品HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001670/index.m3u8
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育HD" tvg-logo="https://logo.catvod.com/早期教育HD.png" group-title="其他",早期教育HD
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001680/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV-1HD
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://logo.catvod.com/法治天地.png" group-title="江苏",法治天地
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001111/index.m3u8
 #EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://logo.catvod.com/好享购物.png" group-title="江苏",好享购物
@@ -259,38 +293,6 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001121/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001053/index.m3u8
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://logo.catvod.com/金色学堂.png" group-title="付费",金色学堂
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001106/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV-1
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001001/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="央视",CCTV-2
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001012/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="央视",CCTV-3
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001054/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="央视",CCTV-4
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001011/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="央视",CCTV-5
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001055/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="央视",CCTV-6
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001056/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="央视",CCTV-7
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001010/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="央视",CCTV-8
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001057/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="央视",CCTV-9
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001242/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="央视",CCTV-10
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001009/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="央视",CCTV-11
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001059/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="央视",CCTV-12
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001060/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="央视",CCTV-13
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001061/index.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="央视",CCTV-14
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001062/index.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="央视",CCTV-15
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001063/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="央视",CCTV-17
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001243/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/北京卫视.png" group-title="卫视",北京卫视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001086/index.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://logo.catvod.com/江苏卫视.png" group-title="卫视",江苏卫视
@@ -351,8 +353,6 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001228/index.m3u8
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://logo.catvod.com/家庭理财.png" group-title="江苏",家庭理财
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001278/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="央视",CCTV-1
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001520/index.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001530/index.m3u8
 #EXTINF:-1 tvg-id="直播室101" tvg-name="直播室101" tvg-logo="https://logo.catvod.com/直播室101.png" group-title="BesTV",直播室101
